@@ -1,7 +1,7 @@
 [![MasterHead](assets/images/banner-img.gif)](https://sidram403.io)
 <h1 align="center">Hi 👋, I'm Sidramaraddy</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img title="a title" alt="Alt text" src="assets/full-stack-developer.gif">
+
 - 🔭 I’m currently working on **Software Development**
 
 - 🌱 I’m currently learning **React, DSA , Software Design**
