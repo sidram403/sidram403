@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sidramaraddy</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img title="a title" alt="Alt text" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1400%2F1*KlNlGjWBb0mScNgnX9Uxjw.gif&imgrefurl=https%3A%2F%2Fsagaratechnology.medium.com%2Fwhat-does-it-mean-by-full-stack-development-d07b3f5aa5c3&tbnid=7qBVoLOSFOgdeM&vet=1&docid=4s3KKW1BQTIFlM&w=800&h=600&hl=en&source=sh%2Fx%2Fim">
+<img title="a title" alt="Alt text" src="assets/full-stack-developer.gif">
 - 🔭 I’m currently working on **Software Development**
 
 - 🌱 I’m currently learning **React, DSA , Software Design**
