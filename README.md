@@ -1,5 +1,6 @@
 [![MasterHead](assets/images/banner-img.gif)](https://sidram403.io)
 <h1 align="center">Hi 👋, I'm Sidramaraddy</h1>
+
 <h3 align="center">A passionate full stack developer from India</h3>
 
 - 🔭 I’m currently working on **Software Development**  
@@ -7,8 +8,9 @@
 - 📝 I regularly write articles on [https://medium.com/@siddharthpatil9108](https://medium.com/@siddharthpatil9108)
 - 📫 How to reach me **siddharthpatil9108@gmail.com**  
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lUf4a3NZreL4_AOYCl_W6BnWjqQZZlYk/view?usp=sharing](https://drive.google.com/file/d/1lUf4a3NZreL4_AOYCl_W6BnWjqQZZlYk/view?usp=sharing)
-<hr />
+
 <h2 align="center">📊 Github Stats</h2>
+
 <div align = "center">
 <p>
   <img
@@ -25,10 +27,11 @@
     alt="sidram403"
   />
 </p>
-  </div> 
-<hr>
+</div> 
+<br/>
 <div align="center">
-<h3 align="left">Connect with me:</h3>
+<h2>📫 Connect with me</h2>
+
 <p align="left">
   
   <a href="https://twitter.com/siddharth_2333" target="blank"
@@ -89,7 +92,7 @@
   /></a>
 </p> 
 </div>
-<hr />
+<br/>
 <h2 align="center">🛠️ Languages and Tools</h2>
 
 
